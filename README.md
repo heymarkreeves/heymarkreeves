@@ -6,6 +6,7 @@ I’ve supported agency partners and clients as [Clearbold](https://clearbold.co
 
 - ⌨️ I’m currently working on Craft CMS plugins and client websites built with Craft & Craft Commerce.
 - 📚 I’m currently diving deeper on a11y.
+- 👀 I’m on the lookout for API integration projects, including CRM, legacy data, and maps.
 - 💬 Ask me about Craft CMS, a11y, prototyping web apps.
 - 📧 I prefer to correspond by email, via [reeves.studio](https://reeves.studio).
-- ⛷, 🎸, ⛸
+- 🏡, ⛷, 🎸, ⛸
