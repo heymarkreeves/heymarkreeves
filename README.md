@@ -1,4 +1,4 @@
-# I’m Mark Reeves.
+👋🏻
 
 I build websites & web applications that are stable, secure, and sustainable—not a source of worry. I also consult on web accessibility and infrastructure, and I’m a [Craft CMS Partner](https://craftcms.com/partners/clearbold).
 
