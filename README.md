@@ -11,4 +11,6 @@ I’ve supported agency partners and clients as [Clearbold](https://clearbold.co
 - 📧 I prefer to correspond by email, via [reeves.studio](https://reeves.studio).
 - 🏡, ⛷, 🎸, ⛸
 
+***
+
 ![Color Palette for Craft CMS - Coming Soon](color-palette-banner.png)
