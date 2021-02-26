@@ -10,3 +10,5 @@ I’ve supported agency partners and clients as [Clearbold](https://clearbold.co
 - 💬 Ask me about Craft CMS, a11y, prototyping web apps.
 - 📧 I prefer to correspond by email, via [reeves.studio](https://reeves.studio).
 - 🏡, ⛷, 🎸, ⛸
+
+![Color Palette for Craft CMS - Coming Soon](color-palette-banner.png)
