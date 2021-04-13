@@ -13,4 +13,4 @@ I’ve supported agency partners and clients as [Clearbold](https://clearbold.co
 
 ***
 
-![Color Palette for Craft CMS - Coming Soon](color-palette-banner-1800.png)
+[![Color Palette for Craft CMS - Coming Soon](color-palette-banner-available-1800.png)](https://plugins.craftcms.com/colorpalette)
